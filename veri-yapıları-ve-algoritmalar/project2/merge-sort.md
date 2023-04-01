@@ -1,6 +1,6 @@
 ### Problem
 
-<br>
+<hr>
 
 [16,21,11,8,12,22]
 
@@ -9,7 +9,7 @@ Big-O gösterimini yazınız.
 
 ### Çözüm
 
-<br>
+<hr>
 
 - Sort türüne göre aşamalar:
 
